@@ -60,5 +60,5 @@
 - DB 설계
 
 
-[프로젝트 소개](https://www.notion.so/c962b387e36542d095867556ec6e37b1)
+[프로젝트 소개](https://www.notion.so/Ask-and-Go-Android-97aa50d0e0f943e4b4b9eea371862c30)
 
