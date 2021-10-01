@@ -16,7 +16,7 @@
 
 ### ✔ Languauge
 
-- Java, Jsp
+- Java, Jsp, Servlet
 
 ### ✔ Server
 
@@ -55,7 +55,7 @@
 
 ---
 
-- Jsp api server 개발
+- web api server 개발
 - 추천 모듈 구현
 - DB 설계
 
