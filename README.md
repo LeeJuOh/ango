@@ -60,5 +60,5 @@
 - DB 설계
 - 정확도 평가 Test
 
-[프로젝트 소개](https://www.notion.so/Ask-and-Go-Android-97aa50d0e0f943e4b4b9eea371862c30)
+[프로젝트 소개](https://foamy-kookaburra-ef9.notion.site/Ask-and-Go-42e98850346a461d929c9c7a4f77f3aa)
 
